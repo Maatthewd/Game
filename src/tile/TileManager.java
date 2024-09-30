@@ -70,6 +70,10 @@ public class TileManager {
             tile[18].collision = true;
             tile[16].collision = true;
             tile[38].collision = true;
+            tile[33].collision = true;
+            tile[32].collision = true;
+            tile[35].collision = true;
+            tile[19].collision = true;
 
         } catch (IOException e) {
             e.printStackTrace();
